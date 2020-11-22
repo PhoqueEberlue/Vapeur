@@ -1,1 +1,2 @@
-Pour lancer l'application, il faut exécuter la classe VueVapeur avec la librairie JavaFX ainsi que d'un connecteur JDBC.
+Pour en apprendre plus sur ce projet vous pouvez consulter les fichiers PDF inclus dans le repository.
+Il s'agit là d'un projet de groupe qui à été effectué avec git mais je n'ai malheureusement pas les droits pour rendre le repo de base public, j'ai donc créer ce nouveau repository sans les détails de versionnage.
