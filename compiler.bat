@@ -1,0 +1,6 @@
+cls
+echo OFF
+echo compilation...
+javac -d bin --modele-path D:\Java\javafx-sdk-11.0.2\lib --add-modules=javafx.controls src\*.java
+echo execution...
+java -cp .:bin --modele-path D:\Java\javafx-sdk-11.0.2\lib --add-modules=javafx.controls VueVapeur

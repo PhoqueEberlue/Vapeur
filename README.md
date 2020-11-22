@@ -1,1 +1,1 @@
-# Vapeur
+Pour lancer l'application, il faut exécuter la classe VueVapeur avec la librairie JavaFX ainsi que d'un connecteur JDBC.

@@ -1,0 +1,7 @@
+.vscode/
+.idea/
+bin/
+out/
+test/
+groupe11a.iml
+vapeur.sh
