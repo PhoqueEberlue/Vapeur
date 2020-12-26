@@ -1,4 +1,4 @@
-# Projet Java : blob/master
+# Projet Java : blob/maste.pngr
 
 Ce projet s'est déroulé durant la fin de l'année scolaire 2019 - 2020 et s'est réalisé en deux mois.
 
@@ -19,24 +19,24 @@ Le projet à été réalisé en **Java** à l'aide du framework **JavaFX** et d'
 
 ### Connection
 
-![alt text](https://github.com/PhoqueEberlue/blob/master/img/connect)
+![alt text](https://github.com/PhoqueEberlue/blob/master/img/connect.png)
 
 ### Home
 
-![alt text](https://github.com/PhoqueEberlue/blob/master/img/home)
+![alt text](https://github.com/PhoqueEberlue/blob/master/img/home.png)
 
 ### Profile
 
-![alt text](https://github.com/PhoqueEberlue/blob/master/img/profile)
+![alt text](https://github.com/PhoqueEberlue/blob/master/img/profile.png)
 
 ### History
 
-![alt text](https://github.com/PhoqueEberlue/blob/master/img/history)
+![alt text](https://github.com/PhoqueEberlue/blob/master/img/history.png)
 
 ### Invitation
 
-![alt text](https://github.com/PhoqueEberlue/blob/master/img/invitation)
+![alt text](https://github.com/PhoqueEberlue/blob/master/img/invitation.png)
 
 ### Game
 
-![alt text](https://github.com/PhoqueEberlue/blob/master/img/game)
+![alt text](https://github.com/PhoqueEberlue/blob/master/img/game.png)
