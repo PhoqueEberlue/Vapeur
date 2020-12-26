@@ -24,6 +24,9 @@ Le projet à été réalisé en **Java** à l'aide du framework **JavaFX** et d'
 ### Home
 
 ![alt text](https://github.com/PhoqueEberlue/Vapeur/blob/main/img/home.png)
+### Game
+
+![alt text](https://github.com/PhoqueEberlue/Vapeur/blob/main/img/game.png)
 
 ### Profile
 
@@ -37,6 +40,3 @@ Le projet à été réalisé en **Java** à l'aide du framework **JavaFX** et d'
 
 ![alt text](https://github.com/PhoqueEberlue/Vapeur/blob/main/img/invitation.png)
 
-### Game
-
-![alt text](https://github.com/PhoqueEberlue/Vapeur/blob/main/img/game.png)
