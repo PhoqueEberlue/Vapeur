@@ -1,4 +1,4 @@
-# Projet Java : blob/maste.pngr
+# Projet Java : Vapeur/blob/maste.pngr
 
 Ce projet s'est déroulé durant la fin de l'année scolaire 2019 - 2020 et s'est réalisé en deux mois.
 
@@ -19,24 +19,24 @@ Le projet à été réalisé en **Java** à l'aide du framework **JavaFX** et d'
 
 ### Connection
 
-![alt text](https://github.com/PhoqueEberlue/blob/main/img/connect.png)
+![alt text](https://github.com/PhoqueEberlue/Vapeur/blob/main/img/connect.png)
 
 ### Home
 
-![alt text](https://github.com/PhoqueEberlue/blob/main/img/home.png)
+![alt text](https://github.com/PhoqueEberlue/Vapeur/blob/main/img/home.png)
 
 ### Profile
 
-![alt text](https://github.com/PhoqueEberlue/blob/main/img/profile.png)
+![alt text](https://github.com/PhoqueEberlue/Vapeur/blob/main/img/profile.png)
 
 ### History
 
-![alt text](https://github.com/PhoqueEberlue/blob/main/img/history.png)
+![alt text](https://github.com/PhoqueEberlue/Vapeur/blob/main/img/history.png)
 
 ### Invitation
 
-![alt text](https://github.com/PhoqueEberlue/blob/main/img/invitation.png)
+![alt text](https://github.com/PhoqueEberlue/Vapeur/blob/main/img/invitation.png)
 
 ### Game
 
-![alt text](https://github.com/PhoqueEberlue/blob/main/img/game.png)
+![alt text](https://github.com/PhoqueEberlue/Vapeur/blob/main/img/game.png)
