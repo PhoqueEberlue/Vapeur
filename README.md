@@ -1,4 +1,4 @@
-# Projet Java : Vapeur
+# Projet Java : blob/master
 
 Ce projet s'est déroulé durant la fin de l'année scolaire 2019 - 2020 et s'est réalisé en deux mois.
 
@@ -19,24 +19,24 @@ Le projet à été réalisé en **Java** à l'aide du framework **JavaFX** et d'
 
 ### Connection
 
-![alt text](https://github.com/PhoqueEberlue/Vapeur/img/connect)
+![alt text](https://github.com/PhoqueEberlue/blob/master/img/connect)
 
 ### Home
 
-![alt text](https://github.com/PhoqueEberlue/Vapeur/img/home)
+![alt text](https://github.com/PhoqueEberlue/blob/master/img/home)
 
 ### Profile
 
-![alt text](https://github.com/PhoqueEberlue/Vapeur/img/profile)
+![alt text](https://github.com/PhoqueEberlue/blob/master/img/profile)
 
 ### History
 
-![alt text](https://github.com/PhoqueEberlue/Vapeur/img/history)
+![alt text](https://github.com/PhoqueEberlue/blob/master/img/history)
 
 ### Invitation
 
-![alt text](https://github.com/PhoqueEberlue/Vapeur/img/invitation)
+![alt text](https://github.com/PhoqueEberlue/blob/master/img/invitation)
 
 ### Game
 
-![alt text](https://github.com/PhoqueEberlue/Vapeur/img/game)
+![alt text](https://github.com/PhoqueEberlue/blob/master/img/game)
